@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hi there, i'm Matheus 👋
 
-<!--
-**nizsz/nizsz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### About
 
-Here are some ideas to get you started:
+I'm Front End Developer and i'm studying web development at [RocketSeat](https://www.rocketseat.com.br/).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Current stack
+
+- 🌍 Main language : `JavaScript`
+- 🎉Frontend : `HTML5`, `CSS3`, `JavaScript`
+- 🎨 Layout design : `Figma`
+- 📦️ Version code control : `Git & Github`
+- 🔧 Tools : `VS Code`, `Markdown`
+
+### Contacts
+
+- 👤 [Linkedin](www.linkedin.com/in/nizsz)
